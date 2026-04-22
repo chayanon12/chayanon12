@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=Chayanon%20Pond&fontSize=56&fontAlignY=38&fontColor=FACC15&desc=GOLDEN%20DASHBOARD%20%7C%20ALL%20SYSTEMS%20ONLINE&descAlignY=61&descSize=16&animation=twinkling&color=0:000000,40:0a0a0a,100:171717" alt="Header" /> </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2100&pause=700&color=FACC15&center=true&vCenter=true&width=980&lines=%3E+boot+--profile+chayanon12;%3E+attach+modules+--metrics+wakatime;%3E+render+--dashboard+online" alt="Typing Banner" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2100&pause=700&color=FACC15&center=true&vCenter=true&width=980&lines=%3E+boot+--profile+chayanon12;%3E+attach+modules+--snake+3d+metrics+wakatime;%3E+render+--dashboard+online" alt="Typing Banner" /> </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-ONLINE-FACC15?style=for-the-badge&labelColor=0A0A0A" alt="Status Online" /> <img src="https://komarev.com/ghpvc/?username=chayanon12&style=for-the-badge&color=facc15&label=VISITORS" alt="Visitors" /> <img src="https://img.shields.io/github/followers/chayanon12?style=for-the-badge&logo=github&labelColor=0A0A0A&color=EAB308" alt="Followers" /> <img src="https://img.shields.io/github/stars/chayanon12?style=for-the-badge&logo=github&labelColor=0A0A0A&color=D97706" alt="Stars" /> </p>
 
@@ -18,20 +18,11 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,100:EAB308" alt="Divider" /> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=PROJECTS&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Projects Title" /> </p>
-
-<p align="center"> 
-  <a href="https://github.com/chayanon12/pos-coffee"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chayanon12&repo=pos-coffee&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15&border_color=EAB308" alt="pos-coffee" /></a> 
-  <a href="https://github.com/chayanon12/react-resume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chayanon12&repo=react-resume&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15&border_color=EAB308" alt="react-resume" /></a> 
-</p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,100:EAB308" alt="Divider" /> </p>
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=METRICS%20DASHBOARD&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Metrics Dashboard Title" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chayanon12&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanon12&layout=compact&langs_count=6&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15" height="150" alt="languages graph"  /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chayanon12&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chayanon12&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15" alt="WakaTime" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanon12&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15" alt="Top Languages" /> </p>
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanon12&theme=github_dark" alt="Profile Details" /> </p>
 
@@ -45,10 +36,6 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=SNAKE%20PROTOCOL&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Snake Protocol Title" /> </p>
 
-<!-- 
-NOTE: To enable the snake animation, you need to set up a GitHub Action to generate it.
-You can use 'Platane/snk' action to generate 'github-contribution-grid-snake-dark.svg'. 
--->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chayanon12/chayanon12/output/github-contribution-grid-snake-dark.svg" />
@@ -57,19 +44,9 @@ You can use 'Platane/snk' action to generate 'github-contribution-grid-snake-dar
   </picture>
 </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,100:EAB308" alt="Divider" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=3D%20CONTRIBUTION%20SKYLINE&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="3D Contribution Title" /> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=3D%20CONTRIBUTION%20SKYLINE&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="3D Skyline Title" /> </p>
-
-<!-- 
-NOTE: To enable the 3D contribution graph, you need to set up a GitHub Action.
-You can use 'yoshi389111/github-profile-3d-contrib' action.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chayanon12/chayanon12/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FACC15,100:EAB308" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/chayanon12/chayanon12/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ACTIVITY%20STREAM&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Activity Stream Title" /> </p>
 
@@ -77,4 +54,4 @@ You can use 'yoshi389111/github-profile-3d-contrib' action.
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,40:0a0a0a,100:171717" alt="Footer Wave" /> </p>
 
-<p align="center"> <a href="https://github.com/chayanon12"> <img src="https://img.shields.io/badge/GitHub-ENTER_TERMINAL-171717?style=for-the-badge&logo=github&logoColor=FACC15" alt="GitHub" /> </a> </p>
+<p align="center"> <a href="https://github.com/chayanon12"> <img src="https://img.shields.io/badge/GitHub-ENTER_TERMINAL-171717?style=for-the-badge&logo=github&logoColor=FACC15" alt="GitHub" /> </a> <a href="https://www.pondcode.site/"> <img src="https://img.shields.io/badge/Portfolio-LAUNCH_SITE-0A0A0A?style=for-the-badge&logo=vercel&logoColor=EAB308" alt="Portfolio" /> </a> </p>
