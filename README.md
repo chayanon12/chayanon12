@@ -44,10 +44,6 @@
   </picture>
 </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=3D%20CONTRIBUTION%20SKYLINE&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="3D Contribution Title" /> </p>
-
-<p align="center"> <img src="https://raw.githubusercontent.com/chayanon12/chayanon12/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /> </p>
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=ACTIVITY%20STREAM&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Activity Stream Title" /> </p>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chayanon12&bg_color=0A0A0A&color=FACC15&line=EAB308&point=FEF3C7&area=true&hide_border=true" alt="Activity Graph" /> </p>
