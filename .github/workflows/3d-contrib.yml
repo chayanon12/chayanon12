@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.email "chayanonolo@gmail.com"
+          git config user.name "chayanon12"
           git add -A .
           git commit -m "ci: update 3D contribution graph" --allow-empty
           git push
