@@ -20,9 +20,9 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=METRICS%20DASHBOARD&fontSize=15&fontColor=FACC15&color=0:000000,100:171717" alt="Metrics Dashboard Title" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chayanon12&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chayanon12&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanon12&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chayanon12&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FACC15&text_color=A1B0CB&icon_color=FACC15" alt="Top Languages" /> </p>
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanon12&theme=github_dark" alt="Profile Details" /> </p>
 
